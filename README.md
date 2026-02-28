@@ -1,16 +1,17 @@
 # HG002 Variant Calling Pipeline
+## Authors
+- Hafsa - Syeda Lajeen Haider - Maheen Ali
 
 ## Overview
-Whole genome short variant calling pipeline using PacBio HiFi data (HG002),
-running Clair3 and DeepVariant on HPC with SLURM + Singularity,
-benchmarked against GIAB truth set v4.2.1 using hap.py.
+Whole genome short variant calling pipeline using PacBio HiFi data (HG002), running 
+Clair3 and DeepVariant on HPC with SLURM + Singularity + Nextflow,
 
-## Input Data
-- PacBio HiFi FASTQ: GIAB HG002 PacBio CCS 15kb
-- URL: https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/PacBio_CCS_15kb/
-- 50% subsampled using seqtk
-- Reference: GRCh38 no-alt analysis set
-- Truth set: GIAB HG002 NISTv4.2.1
+## Input Data - 
+PacBio HiFi FASTQ: GIAB HG002 PacBio CCS 15kb - URL: 
+https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/PacBio_CCS_15kb/ 
+- 50% subsampled using seqtk - Reference: GRCh38 no-alt analysis set - Truth set: 
+GIAB HG002 NISTv4.2.1
+benchmarked against GIAB truth set v4.2.1 using hap.py.
 
 ## Requirements
 - HPC with SLURM
