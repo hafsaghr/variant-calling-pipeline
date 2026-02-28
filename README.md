@@ -1,6 +1,6 @@
 # HG002 Variant Calling Pipeline
 ## Authors
-- Hafsa - Syeda Lajeen Haider - Maheen Ali
+- Hafsa Asghar - Syeda Lajeen Haider - Maheen Ali
 
 ## Overview
 Whole genome short variant calling pipeline using PacBio HiFi data (HG002), running 
