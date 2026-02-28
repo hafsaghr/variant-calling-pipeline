@@ -1,0 +1,322 @@
+[INFO] Set variants quality cutoff 7.0
+[INFO] Set reference calls quality cutoff 14.0
+[INFO] Low quality reference calls to be processed in chr2: 12094
+[INFO] Low quality variants to be processed in chr2: 4434
+[INFO] Low quality reference calls to be processed in chr12: 6481
+[INFO] Low quality variants to be processed in chr12: 2786
+[INFO] Low quality reference calls to be processed in chr15: 3900
+[INFO] Low quality variants to be processed in chr15: 1672
+[INFO] Low quality reference calls to be processed in chr1: 13058
+[INFO] Low quality variants to be processed in chr1: 4540
+[INFO] Low quality reference calls to be processed in chr3: 9330
+[INFO] Low quality variants to be processed in chr3: 3648
+[INFO] Low quality reference calls to be processed in chr11: 6258
+[INFO] Low quality variants to be processed in chr11: 2535
+[INFO] Low quality reference calls to be processed in chr9: 5919
+[INFO] Low quality variants to be processed in chr9: 2656
+[INFO] Low quality reference calls to be processed in chr5: 8665
+[INFO] Low quality variants to be processed in chr5: 3241
+[INFO] Low quality reference calls to be processed in chr6: 7833
+[INFO] Low quality variants to be processed in chr6: 3254
+[INFO] Low quality reference calls to be processed in chr7: 7636
+[INFO] Low quality variants to be processed in chr7: 3207
+[INFO] Low quality reference calls to be processed in chr10: 9219
+[INFO] Low quality variants to be processed in chr10: 3389
+[INFO] Low quality reference calls to be processed in chr4: 13441
+[INFO] Low quality variants to be processed in chr4: 5053
+[INFO] Low quality reference calls to be processed in chr13: 4829
+[INFO] Low quality variants to be processed in chr13: 2043
+[INFO] Low quality reference calls to be processed in chr16: 3990
+[INFO] Low quality variants to be processed in chr16: 1532
+[INFO] Low quality reference calls to be processed in chr8: 6579
+[INFO] Low quality variants to be processed in chr8: 2647
+[INFO] Low quality reference calls to be processed in chr14: 4526
+[INFO] Low quality variants to be processed in chr14: 1754
+[INFO] Low quality reference calls to be processed in chr18: 3457
+[INFO] Low quality variants to be processed in chr18: 1560
+[INFO] Low quality reference calls to be processed in chr17: 3967
+[INFO] Low quality variants to be processed in chr17: 1960
+[INFO] Low quality reference calls to be processed in chr19: 2505
+[INFO] Low quality variants to be processed in chr19: 1099
+[INFO] Low quality reference calls to be processed in chr20: 4942
+[INFO] Low quality variants to be processed in chr20: 1942
+[INFO] Low quality reference calls to be processed in chr22: 2340
+[INFO] Low quality variants to be processed in chr22: 1206
+[INFO] Low quality reference calls to be processed in chr21: 3409
+[INFO] Low quality variants to be processed in chr21: 1525
+[INFO] Low quality reference calls to be processed in chrX: 2044
+[INFO] Low quality variants to be processed in chrX: 743
+[INFO] Low quality reference calls to be processed in chr14_GL000225v1_random: 2763
+[INFO] Low quality variants to be processed in chr14_GL000225v1_random: 1006
+[INFO] Low quality reference calls to be processed in chrUn_GL000218v1: 23
+[INFO] Low quality variants to be processed in chrUn_GL000218v1: 9
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr1_KI270710v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr1_KI270710v1_random: 0
+[INFO] Low quality variants to be processed in chr1_KI270710v1_random: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270754v1: 404
+[INFO] Low quality variants to be processed in chrUn_KI270754v1: 113
+[INFO] Low quality reference calls to be processed in chrY: 3136
+[INFO] Low quality variants to be processed in chrY: 988
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr2_KI270716v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr2_KI270716v1_random: 0
+[INFO] Low quality variants to be processed in chr2_KI270716v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr22_KI270737v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr22_KI270737v1_random: 0
+[INFO] Low quality variants to be processed in chr22_KI270737v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270511v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270511v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270511v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270518v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270518v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270518v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr1_KI270707v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr1_KI270707v1_random: 0
+[INFO] Low quality variants to be processed in chr1_KI270707v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr2_KI270715v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr2_KI270715v1_random: 0
+[INFO] Low quality variants to be processed in chr2_KI270715v1_random: 0
+[INFO] Low quality reference calls to be processed in chr9_KI270719v1_random: 3
+[INFO] Low quality variants to be processed in chr9_KI270719v1_random: 2
+[INFO] Low quality reference calls to be processed in chr17_GL000205v2_random: 19
+[INFO] Low quality variants to be processed in chr17_GL000205v2_random: 16
+[INFO] Low quality reference calls to be processed in chrUn_KI270744v1: 241
+[INFO] Low quality variants to be processed in chrUn_KI270744v1: 97
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr11_KI270721v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr11_KI270721v1_random: 0
+[INFO] Low quality variants to be processed in chr11_KI270721v1_random: 0
+[INFO] Low quality reference calls to be processed in chrUn_GL000195v1: 191
+[INFO] Low quality variants to be processed in chrUn_GL000195v1: 144
+[INFO] Low quality reference calls to be processed in chrUn_KI270756v1: 52
+[INFO] Low quality variants to be processed in chrUn_KI270756v1: 38
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270512v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270512v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270512v1: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270747v1: 103
+[INFO] Low quality variants to be processed in chrUn_KI270747v1: 86
+[INFO] Low quality reference calls to be processed in chrUn_GL000216v2: 1113
+[INFO] Low quality variants to be processed in chrUn_GL000216v2: 497
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr1_KI270714v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr1_KI270714v1_random: 0
+[INFO] Low quality variants to be processed in chr1_KI270714v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270753v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270753v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270753v1: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270438v1: 167
+[INFO] Low quality variants to be processed in chrUn_KI270438v1: 45
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr22_KI270736v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr22_KI270736v1_random: 0
+[INFO] Low quality variants to be processed in chr22_KI270736v1_random: 0
+[INFO] Low quality reference calls to be processed in chr4_GL000008v2_random: 317
+[INFO] Low quality variants to be processed in chr4_GL000008v2_random: 159
+[INFO] Low quality reference calls to be processed in chrUn_GL000213v1: 12
+[INFO] Low quality variants to be processed in chrUn_GL000213v1: 2
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr22_KI270734v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr22_KI270734v1_random: 0
+[INFO] Low quality variants to be processed in chr22_KI270734v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270517v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270517v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270517v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270741v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270741v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270741v1: 0
+[INFO] Low quality reference calls to be processed in chr17_KI270729v1_random: 422
+[INFO] Low quality variants to be processed in chr17_KI270729v1_random: 109
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270587v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270587v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270587v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270589v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270589v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270589v1: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270590v1: 50
+[INFO] Low quality variants to be processed in chrUn_KI270590v1: 25
+[INFO] Low quality reference calls to be processed in chrUn_GL000226v1: 141
+[INFO] Low quality variants to be processed in chrUn_GL000226v1: 30
+[INFO] Low quality reference calls to be processed in chr1_KI270711v1_random: 28
+[INFO] Low quality variants to be processed in chr1_KI270711v1_random: 19
+[INFO] Low quality reference calls to be processed in chrUn_KI270467v1: 154
+[INFO] Low quality variants to be processed in chrUn_KI270467v1: 41
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270507v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270507v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270507v1: 0
+[INFO] Low quality reference calls to be processed in chrUn_GL000224v1: 172
+[INFO] Low quality variants to be processed in chrUn_GL000224v1: 41
+[INFO] Low quality reference calls to be processed in chrUn_KI270442v1: 1329
+[INFO] Low quality variants to be processed in chrUn_KI270442v1: 761
+[INFO] Low quality reference calls to be processed in chrUn_KI270749v1: 38
+[INFO] Low quality variants to be processed in chrUn_KI270749v1: 13
+[INFO] Low quality reference calls to be processed in chrUn_KI270742v1: 73
+[INFO] Low quality variants to be processed in chrUn_KI270742v1: 33
+[INFO] Low quality reference calls to be processed in chrUn_GL000214v1: 99
+[INFO] Low quality variants to be processed in chrUn_GL000214v1: 31
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270466v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270466v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270466v1: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270757v1: 622
+[INFO] Low quality variants to be processed in chrUn_KI270757v1: 185
+[INFO] Low quality reference calls to be processed in chrUn_KI270743v1: 13
+[INFO] Low quality variants to be processed in chrUn_KI270743v1: 1
+[INFO] Low quality reference calls to be processed in chr22_KI270732v1_random: 23
+[INFO] Low quality variants to be processed in chr22_KI270732v1_random: 3
+[INFO] Low quality reference calls to be processed in chr1_KI270713v1_random: 11
+[INFO] Low quality variants to be processed in chr1_KI270713v1_random: 15
+[INFO] Low quality reference calls to be processed in chrUn_KI270538v1: 76
+[INFO] Low quality variants to be processed in chrUn_KI270538v1: 64
+[INFO] Low quality reference calls to be processed in chr14_GL000194v1_random: 101
+[INFO] Low quality variants to be processed in chr14_GL000194v1_random: 47
+[INFO] Low quality reference calls to be processed in chrM: 1
+[INFO] Low quality variants to be processed in chrM: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270411v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270411v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270411v1: 0
+[INFO] Low quality reference calls to be processed in chr14_KI270724v1_random: 68
+[INFO] Low quality variants to be processed in chr14_KI270724v1_random: 89
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrY_KI270740v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrY_KI270740v1_random: 0
+[INFO] Low quality variants to be processed in chrY_KI270740v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr1_KI270708v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr1_KI270708v1_random: 0
+[INFO] Low quality variants to be processed in chr1_KI270708v1_random: 0
+[INFO] Low quality reference calls to be processed in chr14_KI270725v1_random: 17
+[INFO] Low quality variants to be processed in chr14_KI270725v1_random: 35
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr16_KI270728v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr16_KI270728v1_random: 0
+[INFO] Low quality variants to be processed in chr16_KI270728v1_random: 0
+[INFO] Low quality reference calls to be processed in chr1_KI270712v1_random: 3
+[INFO] Low quality variants to be processed in chr1_KI270712v1_random: 2
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270311v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270311v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270311v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270579v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270579v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270579v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr22_KI270738v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr22_KI270738v1_random: 0
+[INFO] Low quality variants to be processed in chr22_KI270738v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr1_KI270706v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr1_KI270706v1_random: 0
+[INFO] Low quality variants to be processed in chr1_KI270706v1_random: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270435v1: 19
+[INFO] Low quality variants to be processed in chrUn_KI270435v1: 8
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270745v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270745v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270745v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_GL000219v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_GL000219v1: 0
+[INFO] Low quality variants to be processed in chrUn_GL000219v1: 0
+[INFO] Low quality reference calls to be processed in chr22_KI270735v1_random: 16
+[INFO] Low quality variants to be processed in chr22_KI270735v1_random: 15
+[INFO] Low quality reference calls to be processed in chrUn_KI270515v1: 157
+[INFO] Low quality variants to be processed in chrUn_KI270515v1: 49
+[INFO] Low quality reference calls to be processed in chrUn_KI270746v1: 22
+[INFO] Low quality variants to be processed in chrUn_KI270746v1: 31
+[INFO] Low quality reference calls to be processed in chr22_KI270733v1_random: 202
+[INFO] Low quality variants to be processed in chr22_KI270733v1_random: 60
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr9_KI270717v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr9_KI270717v1_random: 0
+[INFO] Low quality variants to be processed in chr9_KI270717v1_random: 0
+[INFO] Low quality reference calls to be processed in chr14_KI270723v1_random: 1
+[INFO] Low quality variants to be processed in chr14_KI270723v1_random: 0
+[INFO] Low quality reference calls to be processed in chrUn_KI270750v1: 34
+[INFO] Low quality variants to be processed in chrUn_KI270750v1: 9
+[INFO] Low quality reference calls to be processed in chrUn_KI270519v1: 406
+[INFO] Low quality variants to be processed in chrUn_KI270519v1: 234
+[INFO] Low quality reference calls to be processed in chr1_KI270709v1_random: 309
+[INFO] Low quality variants to be processed in chr1_KI270709v1_random: 280
+[INFO] Low quality reference calls to be processed in chrUn_KI270751v1: 96
+[INFO] Low quality variants to be processed in chrUn_KI270751v1: 35
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270336v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270336v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270336v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270755v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270755v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270755v1: 0
+[INFO] Low quality reference calls to be processed in chr3_GL000221v1_random: 9
+[INFO] Low quality variants to be processed in chr3_GL000221v1_random: 5
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270516v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270516v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270516v1: 0
+[INFO] Low quality reference calls to be processed in chrUn_GL000220v1: 188
+[INFO] Low quality variants to be processed in chrUn_GL000220v1: 45
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270468v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270468v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270468v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270337v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270337v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270337v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr9_KI270718v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr9_KI270718v1_random: 0
+[INFO] Low quality variants to be processed in chr9_KI270718v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270748v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270748v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270748v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr22_KI270731v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr22_KI270731v1_random: 0
+[INFO] Low quality variants to be processed in chr22_KI270731v1_random: 0
+[INFO] Low quality reference calls to be processed in chr17_KI270730v1_random: 9
+[INFO] Low quality variants to be processed in chr17_KI270730v1_random: 5
+[INFO] Low quality reference calls to be processed in chrEBV: 139
+[INFO] Low quality variants to be processed in chrEBV: 8
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270588v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270588v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270588v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr9_KI270720v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr9_KI270720v1_random: 0
+[INFO] Low quality variants to be processed in chr9_KI270720v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chrUn_KI270333v1[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chrUn_KI270333v1: 0
+[INFO] Low quality variants to be processed in chrUn_KI270333v1: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr5_GL000208v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr5_GL000208v1_random: 0
+[INFO] Low quality variants to be processed in chr5_GL000208v1_random: 0
+[INFO] Low quality reference calls to be processed in chr14_GL000009v2_random: 57
+[INFO] Low quality variants to be processed in chr14_GL000009v2_random: 95
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr14_KI270722v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr14_KI270722v1_random: 0
+[INFO] Low quality variants to be processed in chr14_KI270722v1_random: 0
+[93m[WARNING] Cannot find any low-quality 0/0, 0/1 or 1/1 variant in pileup output in contig chr15_KI270727v1_random[0m
+[93m[WARNING] Copying pileup.vcf.gz to /hdd4/sines/specialtopicsinbioinformatics/hafsa.sines/variant_calling_pipeline/results/clair3/merge_output.vcf.gz[0m
+[INFO] Low quality reference calls to be processed in chr15_KI270727v1_random: 0
+[INFO] Low quality variants to be processed in chr15_KI270727v1_random: 0

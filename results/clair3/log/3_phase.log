@@ -1,0 +1,2286 @@
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr9 in individual SAMPLE
+Found 2088 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 495 reads covering 1953 variants
+Kept 389 reads that cover at least two variants each
+Selected 389 most phase-informative reads covering 1906 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 337 variants (17.7% of accessible variants) between position 63813664 and 63826996
+
+# Resource usage
+Maximum memory usage: 0.339 GB
+Time spent reading BAM/CRAM:                    1.3 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             1.6 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr5 in individual SAMPLE
+Found 2787 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 888 reads covering 2681 variants
+Kept 688 reads that cover at least two variants each
+Selected 688 most phase-informative reads covering 2595 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 98 variants (3.8% of accessible variants) between position 49656342 and 49661820
+
+# Resource usage
+Maximum memory usage: 0.426 GB
+Time spent reading BAM/CRAM:                    1.5 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             1.9 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr13 in individual SAMPLE
+Found 1846 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 452 reads covering 1731 variants
+Kept 375 reads that cover at least two variants each
+Selected 375 most phase-informative reads covering 1693 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 257 variants (15.2% of accessible variants) between position 16146724 and 16159902
+Changed 2 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.292 GB
+Time spent reading BAM/CRAM:                    1.3 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             1.6 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr15 in individual SAMPLE
+Found 1303 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 377 reads covering 1299 variants
+Kept 278 reads that cover at least two variants each
+Selected 278 most phase-informative reads covering 1254 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 75 variants (6.0% of accessible variants) between position 17075992 and 17083460
+
+# Resource usage
+Maximum memory usage: 0.266 GB
+Time spent reading BAM/CRAM:                    1.4 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             1.7 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr11 in individual SAMPLE
+Found 1563 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 597 reads covering 1558 variants
+Kept 419 reads that cover at least two variants each
+Selected 419 most phase-informative reads covering 1478 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 53 variants (3.6% of accessible variants) between position 4268308 and 4274986
+
+# Resource usage
+Maximum memory usage: 0.332 GB
+Time spent reading BAM/CRAM:                    1.7 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             2.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr12 in individual SAMPLE
+Found 1777 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 596 reads covering 1695 variants
+Kept 458 reads that cover at least two variants each
+Selected 458 most phase-informative reads covering 1632 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 99 variants (6.1% of accessible variants) between position 43363 and 55430
+
+# Resource usage
+Maximum memory usage: 0.329 GB
+Time spent reading BAM/CRAM:                    1.8 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             2.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr3 in individual SAMPLE
+Found 2536 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 859 reads covering 2472 variants
+Kept 649 reads that cover at least two variants each
+Selected 649 most phase-informative reads covering 2374 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 51 variants (2.1% of accessible variants) between position 195623143 and 195634610
+
+# Resource usage
+Maximum memory usage: 0.458 GB
+Time spent reading BAM/CRAM:                    2.0 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             2.5 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr14 in individual SAMPLE
+Found 1799 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 466 reads covering 1796 variants
+Kept 363 reads that cover at least two variants each
+Selected 363 most phase-informative reads covering 1756 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 213 variants (12.1% of accessible variants) between position 16096799 and 16105345
+Changed 1 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.277 GB
+Time spent reading BAM/CRAM:                    1.4 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             1.9 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr7 in individual SAMPLE
+Found 2596 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 698 reads covering 2503 variants
+Kept 519 reads that cover at least two variants each
+Selected 519 most phase-informative reads covering 2423 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 260 variants (10.7% of accessible variants) between position 142759091 and 142773583
+
+# Resource usage
+Maximum memory usage: 0.381 GB
+Time spent reading BAM/CRAM:                    1.9 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             2.4 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr2 in individual SAMPLE
+Found 3884 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 1081 reads covering 3875 variants
+Kept 809 reads that cover at least two variants each
+Selected 809 most phase-informative reads covering 3753 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 515 variants (13.7% of accessible variants) between position 95935361 and 95957300
+Changed 25 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.548 GB
+Time spent reading BAM/CRAM:                    2.1 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             2.7 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr16 in individual SAMPLE
+Found 1440 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 577 reads covering 1434 variants
+Kept 489 reads that cover at least two variants each
+Selected 310 most phase-informative reads covering 1393 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 122 variants (8.8% of accessible variants) between position 46382627 and 46402735
+Changed 3 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.244 GB
+Time spent reading BAM/CRAM:                    1.6 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.2 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             2.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr8 in individual SAMPLE
+Found 2364 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 639 reads covering 2010 variants
+Kept 497 reads that cover at least two variants each
+Selected 497 most phase-informative reads covering 1949 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 47 variants (2.4% of accessible variants) between position 6975083 and 6986715
+
+# Resource usage
+Maximum memory usage: 0.353 GB
+Time spent reading BAM/CRAM:                    2.5 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             2.9 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr4 in individual SAMPLE
+Found 4496 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 867 reads covering 4383 variants
+Kept 645 reads that cover at least two variants each
+Selected 645 most phase-informative reads covering 4284 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 1256 variants (29.3% of accessible variants) between position 49091983 and 49163555
+Changed 34 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.446 GB
+Time spent reading BAM/CRAM:                    1.9 s
+Time spent parsing VCF:                         0.2 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.1 s
+Time spent writing VCF:                         0.2 s
+Time spent finding components:                  0.1 s
+Time spent on rest:                             0.3 s
+Total elapsed time:                             2.8 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr6 in individual SAMPLE
+Found 2386 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 773 reads covering 2384 variants
+Kept 588 reads that cover at least two variants each
+Selected 588 most phase-informative reads covering 2301 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 64 variants (2.8% of accessible variants) between position 31188946 and 31200847
+
+# Resource usage
+Maximum memory usage: 0.404 GB
+Time spent reading BAM/CRAM:                    2.5 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.2 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             3.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr17 in individual SAMPLE
+Found 1616 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 403 reads covering 1616 variants
+Kept 300 reads that cover at least two variants each
+Selected 300 most phase-informative reads covering 1569 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 413 variants (26.3% of accessible variants) between position 21728551 and 21744868
+
+# Resource usage
+Maximum memory usage: 0.230 GB
+Time spent reading BAM/CRAM:                    0.5 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.7 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000218v1 in individual SAMPLE
+Found 62 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 9 reads covering 62 variants
+Kept 9 reads that cover at least two variants each
+Selected 9 most phase-informative reads covering 62 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 28 variants (45.2% of accessible variants) between position 123172 and 134483
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr19 in individual SAMPLE
+Found 1156 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 247 reads covering 1069 variants
+Kept 204 reads that cover at least two variants each
+Selected 204 most phase-informative reads covering 1048 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 49 variants (4.7% of accessible variants) between position 27337888 and 27340571
+
+# Resource usage
+Maximum memory usage: 0.180 GB
+Time spent reading BAM/CRAM:                    0.4 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.6 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr18 in individual SAMPLE
+Found 1143 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 320 reads covering 1099 variants
+Kept 252 reads that cover at least two variants each
+Selected 252 most phase-informative reads covering 1068 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 143 variants (13.4% of accessible variants) between position 15481966 and 15494224
+
+# Resource usage
+Maximum memory usage: 0.223 GB
+Time spent reading BAM/CRAM:                    0.6 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.8 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr21 in individual SAMPLE
+Found 2868 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 282 reads covering 2854 variants
+Kept 234 reads that cover at least two variants each
+Selected 233 most phase-informative reads covering 2832 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 556 variants (19.6% of accessible variants) between position 10414921 and 10463786
+Changed 6 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.159 GB
+Time spent reading BAM/CRAM:                    0.4 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.1 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.7 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr22 in individual SAMPLE
+Found 2005 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 181 reads covering 1882 variants
+Kept 135 reads that cover at least two variants each
+Selected 135 most phase-informative reads covering 1862 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 246 variants (13.2% of accessible variants) between position 12593222 and 12604363
+
+# Resource usage
+Maximum memory usage: 0.166 GB
+Time spent reading BAM/CRAM:                    0.4 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.6 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr14_GL000225v1_random in individual SAMPLE
+Found 1381 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 30 reads covering 1380 variants
+Kept 30 reads that cover at least two variants each
+Selected 30 most phase-informative reads covering 1380 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 930 variants (67.4% of accessible variants) between position 37662 and 71502
+Changed 27 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.066 GB
+Time spent reading BAM/CRAM:                    0.1 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.4 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270754v1 in individual SAMPLE
+Found 187 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 4 reads covering 187 variants
+Kept 4 reads that cover at least two variants each
+Selected 4 most phase-informative reads covering 187 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 183 variants (97.9% of accessible variants) between position 17336 and 33894
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr1 in individual SAMPLE
+Found 3873 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 1190 reads covering 3709 variants
+Kept 905 reads that cover at least two variants each
+Selected 813 most phase-informative reads covering 3585 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 392 variants (10.9% of accessible variants) between position 2653301 and 2696584
+Changed 11 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.561 GB
+Time spent reading BAM/CRAM:                    2.9 s
+Time spent parsing VCF:                         0.2 s
+Time spent selecting reads:                     0.1 s
+Time spent phasing:                             0.2 s
+Time spent writing VCF:                         0.2 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.3 s
+Total elapsed time:                             3.8 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrX in individual SAMPLE
+Found 326 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 51 reads covering 231 variants
+Kept 23 reads that cover at least two variants each
+Selected 23 most phase-informative reads covering 215 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 78 variants (36.3% of accessible variants) between position 9404379 and 9414546
+
+# Resource usage
+Maximum memory usage: 0.372 GB
+Time spent reading BAM/CRAM:                    0.8 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.9 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr10 in individual SAMPLE
+Found 2709 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 673 reads covering 2698 variants
+Kept 499 reads that cover at least two variants each
+Selected 499 most phase-informative reads covering 2615 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 344 variants (13.2% of accessible variants) between position 41880537 and 41914930
+Changed 43 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.331 GB
+Time spent reading BAM/CRAM:                    2.3 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             1.2 s
+Time spent writing VCF:                         0.1 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             3.9 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrY in individual SAMPLE
+Found 1561 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 64 reads covering 1538 variants
+Kept 60 reads that cover at least two variants each
+Selected 53 most phase-informative reads covering 1536 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 496 variants (32.3% of accessible variants) between position 56828779 and 56879408
+Changed 74 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.178 GB
+Time spent reading BAM/CRAM:                    0.5 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.2 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.9 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr9_KI270719v1_random in individual SAMPLE
+Found 7 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 7 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 7 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 7 variants (100.0% of accessible variants) between position 143855 and 146086
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr20 in individual SAMPLE
+Found 2462 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 305 reads covering 2422 variants
+Kept 229 reads that cover at least two variants each
+Selected 229 most phase-informative reads covering 2387 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 254 variants (10.6% of accessible variants) between position 29498790 and 29518255
+Changed 12 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.194 GB
+Time spent reading BAM/CRAM:                    0.7 s
+Time spent parsing VCF:                         0.1 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.2 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             1.3 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr17_GL000205v2_random in individual SAMPLE
+Found 15 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 5 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 5 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 5 variants (100.0% of accessible variants) between position 52372 and 57746
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270744v1 in individual SAMPLE
+Found 360 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 14 reads covering 360 variants
+Kept 14 reads that cover at least two variants each
+Selected 14 most phase-informative reads covering 360 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 198 variants (55.0% of accessible variants) between position 105326 and 124027
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000195v1 in individual SAMPLE
+Found 132 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 8 reads covering 131 variants
+Kept 8 reads that cover at least two variants each
+Selected 8 most phase-informative reads covering 131 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 64 variants (48.9% of accessible variants) between position 18064 and 29900
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270756v1 in individual SAMPLE
+Found 28 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 4 reads covering 28 variants
+Kept 4 reads that cover at least two variants each
+Selected 4 most phase-informative reads covering 28 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 23 variants (82.1% of accessible variants) between position 1524 and 3963
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270747v1 in individual SAMPLE
+Found 87 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 4 reads covering 87 variants
+Kept 4 reads that cover at least two variants each
+Selected 4 most phase-informative reads covering 87 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 85 variants (97.7% of accessible variants) between position 61083 and 64304
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000216v2 in individual SAMPLE
+Found 529 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 24 reads covering 525 variants
+Kept 24 reads that cover at least two variants each
+Selected 24 most phase-informative reads covering 525 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 170 variants (32.4% of accessible variants) between position 162774 and 169601
+Changed 13 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.065 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.2 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270438v1 in individual SAMPLE
+Found 200 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 116 reads covering 200 variants
+Kept 116 reads that cover at least two variants each
+Selected 19 most phase-informative reads covering 200 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 140 variants (70.0% of accessible variants) between position 63 and 13095
+Changed 2 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.070 GB
+Time spent reading BAM/CRAM:                    0.1 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.1 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.3 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr4_GL000008v2_random in individual SAMPLE
+Found 420 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 11 reads covering 419 variants
+Kept 9 reads that cover at least two variants each
+Selected 9 most phase-informative reads covering 418 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 394 variants (94.3% of accessible variants) between position 94 and 22308
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.2 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr17_KI270729v1_random in individual SAMPLE
+Found 132 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 9 reads covering 132 variants
+Kept 9 reads that cover at least two variants each
+Selected 9 most phase-informative reads covering 132 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 99 variants (75.0% of accessible variants) between position 748 and 5708
+Changed 1 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr1_KI270711v1_random in individual SAMPLE
+Found 14 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 14 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 14 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 14 variants (100.0% of accessible variants) between position 2021 and 11189
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270467v1 in individual SAMPLE
+Found 70 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 9 reads covering 70 variants
+Kept 9 reads that cover at least two variants each
+Selected 9 most phase-informative reads covering 70 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 62 variants (88.6% of accessible variants) between position 871 and 3896
+Changed 1 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000226v1 in individual SAMPLE
+Found 192 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 0 reads covering 0 variants
+Kept 0 reads that cover at least two variants each
+Selected 0 most phase-informative reads covering 0 variants
+Phasing 1 sample by solving the MEC problem ...
+No. of phased blocks: 0
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000224v1 in individual SAMPLE
+Found 135 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 14 reads covering 135 variants
+Kept 14 reads that cover at least two variants each
+Selected 14 most phase-informative reads covering 135 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 103 variants (76.3% of accessible variants) between position 596 and 20979
+Changed 15 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270749v1 in individual SAMPLE
+Found 23 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 3 reads covering 23 variants
+Kept 3 reads that cover at least two variants each
+Selected 3 most phase-informative reads covering 23 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 23 variants (100.0% of accessible variants) between position 6055 and 15748
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270590v1 in individual SAMPLE
+Found 38 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 38 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 38 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 38 variants (100.0% of accessible variants) between position 1585 and 4590
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270757v1 in individual SAMPLE
+Found 331 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 8 reads covering 331 variants
+Kept 8 reads that cover at least two variants each
+Selected 8 most phase-informative reads covering 331 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 264 variants (79.8% of accessible variants) between position 49093 and 70243
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270442v1 in individual SAMPLE
+Found 1222 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 32 reads covering 1221 variants
+Kept 32 reads that cover at least two variants each
+Selected 32 most phase-informative reads covering 1221 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 330 variants (27.0% of accessible variants) between position 304039 and 315451
+
+# Resource usage
+Maximum memory usage: 0.066 GB
+Time spent reading BAM/CRAM:                    0.1 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.4 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270538v1 in individual SAMPLE
+Found 59 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 5 reads covering 59 variants
+Kept 5 reads that cover at least two variants each
+Selected 5 most phase-informative reads covering 59 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 50 variants (84.7% of accessible variants) between position 54231 and 65417
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr1_KI270713v1_random in individual SAMPLE
+Found 23 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 23 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 23 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 23 variants (100.0% of accessible variants) between position 22235 and 28234
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270742v1 in individual SAMPLE
+Found 186 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 10 reads covering 174 variants
+Kept 10 reads that cover at least two variants each
+Selected 10 most phase-informative reads covering 174 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 85 variants (48.9% of accessible variants) between position 133882 and 144387
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000214v1 in individual SAMPLE
+Found 192 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 8 reads covering 192 variants
+Kept 8 reads that cover at least two variants each
+Selected 8 most phase-informative reads covering 192 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 128 variants (66.7% of accessible variants) between position 121327 and 135523
+Changed 8 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.2 s
+Total elapsed time:                             0.2 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr14_GL000194v1_random in individual SAMPLE
+Found 307 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 12 reads covering 306 variants
+Kept 12 reads that cover at least two variants each
+Selected 12 most phase-informative reads covering 306 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 236 variants (77.1% of accessible variants) between position 14273 and 27171
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.2 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr22_KI270732v1_random in individual SAMPLE
+Found 8 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 8 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 8 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 8 variants (100.0% of accessible variants) between position 11030 and 15406
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrM in individual SAMPLE
+Found 1 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 1 reads covering 1 variants
+Kept 0 reads that cover at least two variants each
+Selected 0 most phase-informative reads covering 0 variants
+Phasing 1 sample by solving the MEC problem ...
+No. of phased blocks: 0
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr14_KI270724v1_random in individual SAMPLE
+Found 132 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 5 reads covering 132 variants
+Kept 3 reads that cover at least two variants each
+Selected 3 most phase-informative reads covering 131 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 131 variants (100.0% of accessible variants) between position 6077 and 18115
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.2 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr1_KI270712v1_random in individual SAMPLE
+Found 3 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 3 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 3 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 3 variants (100.0% of accessible variants) between position 70677 and 72490
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr14_KI270725v1_random in individual SAMPLE
+Found 15 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 15 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 15 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 15 variants (100.0% of accessible variants) between position 102350 and 107453
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270435v1 in individual SAMPLE
+Found 18 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 18 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 18 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 18 variants (100.0% of accessible variants) between position 25997 and 36673
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr22_KI270735v1_random in individual SAMPLE
+Found 32 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 3 reads covering 32 variants
+Kept 3 reads that cover at least two variants each
+Selected 3 most phase-informative reads covering 32 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 32 variants (100.0% of accessible variants) between position 16185 and 28305
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr22_KI270733v1_random in individual SAMPLE
+Found 201 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 27 reads covering 188 variants
+Kept 27 reads that cover at least two variants each
+Selected 27 most phase-informative reads covering 188 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 121 variants (64.4% of accessible variants) between position 122324 and 170565
+Changed 11 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270515v1 in individual SAMPLE
+Found 75 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 75 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 75 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 75 variants (100.0% of accessible variants) between position 466 and 6286
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270746v1 in individual SAMPLE
+Found 19 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 2 reads covering 19 variants
+Kept 2 reads that cover at least two variants each
+Selected 2 most phase-informative reads covering 19 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 18 variants (94.7% of accessible variants) between position 31275 and 36481
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270751v1 in individual SAMPLE
+Found 126 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 8 reads covering 126 variants
+Kept 8 reads that cover at least two variants each
+Selected 8 most phase-informative reads covering 126 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 117 variants (92.9% of accessible variants) between position 121703 and 150565
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270750v1 in individual SAMPLE
+Found 28 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 5 reads covering 28 variants
+Kept 3 reads that cover at least two variants each
+Selected 3 most phase-informative reads covering 27 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 27 variants (100.0% of accessible variants) between position 10768 and 21805
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr3_GL000221v1_random in individual SAMPLE
+Found 35 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 1 reads covering 21 variants
+Kept 1 reads that cover at least two variants each
+Selected 1 most phase-informative reads covering 21 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 21 variants (100.0% of accessible variants) between position 60612 and 64555
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_KI270519v1 in individual SAMPLE
+Found 74 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 3 reads covering 74 variants
+Kept 3 reads that cover at least two variants each
+Selected 3 most phase-informative reads covering 74 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 63 variants (85.1% of accessible variants) between position 79410 and 86424
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrUn_GL000220v1 in individual SAMPLE
+Found 82 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 10 reads covering 64 variants
+Kept 10 reads that cover at least two variants each
+Selected 10 most phase-informative reads covering 64 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 44 variants (68.8% of accessible variants) between position 132370 and 157189
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.0 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr14_GL000009v2_random in individual SAMPLE
+Found 130 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 4 reads covering 113 variants
+Kept 4 reads that cover at least two variants each
+Selected 4 most phase-informative reads covering 113 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 70 variants (61.9% of accessible variants) between position 77288 and 90180
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.0 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr17_KI270730v1_random in individual SAMPLE
+Found 89 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 3 reads covering 89 variants
+Kept 3 reads that cover at least two variants each
+Selected 3 most phase-informative reads covering 89 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 89 variants (100.0% of accessible variants) between position 80720 and 82585
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chrEBV in individual SAMPLE
+Found 3 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 10 reads covering 3 variants
+Kept 0 reads that cover at least two variants each
+Selected 0 most phase-informative reads covering 0 variants
+Phasing 1 sample by solving the MEC problem ...
+No. of phased blocks: 0
+
+# Resource usage
+Maximum memory usage: 0.064 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Working on contig chr1_KI270709v1_random in individual SAMPLE
+Found 365 usable heterozygous variants (0 skipped due to missing genotypes)
+Number of supplementary alignments: 0
+Number of non-singleton groups: 0
+Skipped 0 groups
+Found 34 reads covering 363 variants
+Kept 34 reads that cover at least two variants each
+Selected 20 most phase-informative reads covering 363 variants
+Phasing 1 sample by solving the MEC problem ...
+Largest block contains 264 variants (72.7% of accessible variants) between position 186 and 25261
+Changed 20 genotypes while writing VCF
+
+# Resource usage
+Maximum memory usage: 0.079 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.6 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.8 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s
+This is WhatsHap 2.8 running under Python 3.11.14
+Working on 1 sample from 1 family
+
+# Resource usage
+Maximum memory usage: 0.063 GB
+Time spent reading BAM/CRAM:                    0.0 s
+Time spent parsing VCF:                         0.0 s
+Time spent selecting reads:                     0.0 s
+Time spent phasing:                             0.0 s
+Time spent writing VCF:                         0.0 s
+Time spent finding components:                  0.0 s
+Time spent on rest:                             0.1 s
+Total elapsed time:                             0.1 s

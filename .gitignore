@@ -1,0 +1,16 @@
+data/
+reference/
+*.bam
+*.bai
+*.fastq*
+*.sif
+singularity_cache/
+.nextflow/
+work/
+tmp/
+*.vcf.gz
+*.vcf.gz.tbi
+*.bed
+*.fa
+*.fai
+logs/
